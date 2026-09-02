@@ -10,6 +10,9 @@
 
 ![vid of movement](https://github.com/Kizzball/FGCT4006-resit/blob/main/resit%20task%202.gif?raw=true)
 
+The coins check if they have been touched by the player. If so, the coins add 1-5 gold before destroying themselves.
+
+
 ### Task 3:
 ![pic movement code](https://github.com/Kizzball/FGCT4006-resit/blob/main/resit%20task%201.png)
 
