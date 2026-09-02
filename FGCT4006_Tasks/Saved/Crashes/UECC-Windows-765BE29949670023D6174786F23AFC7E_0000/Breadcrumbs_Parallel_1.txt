@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - ParallelDraw (Index: 1, Num: 4)
+ - PrePass DDM_AllOpaqueNoVelocity (Forced by Nanite)
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
